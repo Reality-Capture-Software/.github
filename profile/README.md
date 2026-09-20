@@ -2,7 +2,7 @@
 
 ## Advanced Use Cases for Reality Capture Software
 
-[![GET Reality Capture Software](https://img.shields.io/badge/GET%20%E2%80%94%20Reality%20Capture%20Software-0078D6?style=for-the-badge&logoColor=white)](https://peterfalkingham.com/wp-content/uploads/2019/05/rcdense.jpg)
+[![GET Reality Capture Software](https://peterfalkingham.com/wp-content/uploads/2023/11/image-3.png)
 
 **Scenario 1: Full profile review** - Scan the user profile with Reality Capture Software, then save a named alignment before moving archives.
 Keep only files you own on that duty host.
